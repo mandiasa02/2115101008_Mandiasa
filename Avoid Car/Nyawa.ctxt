@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Nyawa
+comment0.text=\r\n\ Randomly\ has\ trucks\ spawn\ that\ drive\ down\ the\ road,\ will\ not\ let\ two\ trucks\ spawn\ on\ top\ of\ eachother\r\n\ also\ truck\ will\ explode\ if\ it\ hits\ a\ laser.\r\n\ @author\ Hubert\ Jackson\ Black\ III\r\n\ @version\ v0.10\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Vehicle\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ runDown()
+comment3.params=
+comment3.target=void\ checkCollision()
+comment4.params=
+comment4.target=void\ nyawaGone()
+numComments=5
